@@ -4,11 +4,13 @@ Claude Code skill providing knowledge base for the [ARC framework](https://githu
 
 ## Installation
 
+Clone into your Claude Code skills directory:
+
 ```bash
-claude skill add ./path/to/arc-skill
-# or from GitHub:
-claude skill add git@github.com:MikolajKopec/arc-skill.git
+git clone git@github.com:MikolajKopec/arc-skill.git ~/.claude/skills/arc-skill
 ```
+
+Claude Code automatically loads skills from `~/.claude/skills/`.
 
 ## What it covers
 
