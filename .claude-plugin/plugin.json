@@ -1,0 +1,9 @@
+{
+  "name": "arc-framework",
+  "version": "0.1.12",
+  "description": "ARC framework knowledge base — type system, CQRS, event sourcing, React integration, Bun server hosting",
+  "author": {
+    "name": "narzedziadlatworcow.pl"
+  },
+  "keywords": ["arc", "arcote", "framework", "cqrs", "event-sourcing", "bun", "react"]
+}
